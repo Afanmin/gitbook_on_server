@@ -1,7 +1,7 @@
 # Summary
 
-* [README] (./README.md)
-* [SUMMARY] (./SUMMARY.md)
+* [README](./README.md)
+* [SUMMARY](./SUMMARY.md)
 * ./_book
    * ./_book/gitbook
       * ./_book/gitbook/fonts
