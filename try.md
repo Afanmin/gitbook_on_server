@@ -1,4 +1,3 @@
-# SUMMARY
 * [README](./README.md)
-* [try](./try.md)
+* [SUMMARY](./SUMMARY.md)
 * [july 2020](./july 2020/README.md)
