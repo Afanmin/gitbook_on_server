@@ -55,5 +55,5 @@ service apache2 reload
 
 ##### 这样我们就可以通过访问自己的域名来访问自己的gitbook啦
 
-![](/Users/minyifan/Golden Exprience/gitbook_on_server/July 2020/WX20200723-124500@2x.png)
+![](WX20200723-124500@2x.png)
 
